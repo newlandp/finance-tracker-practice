@@ -16,5 +16,5 @@
 # Ignore Byebug command history file.
 .byebug_history
 
-# Ignore secrets.yml
-/config/secrets.yml
+# Ignore secrets.yml (not anymore because of heroku issues. this app isn't sensitive enough to worry about solving the issue now)
+# /config/secrets.yml
